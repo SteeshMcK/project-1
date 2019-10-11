@@ -6,7 +6,7 @@ RoadtripperZzz is a front-end only application built using HTML5/CSS3 and the Bo
 
 # Instructions
 On the home page, the user types in their name and location and clicks the button labeled, "Load up, bud!"
-
+![](/project-1/assets/ReadMeImages/homepage.png)
 ---
 # From Original Project Repository [Found here.](https://github.com/VolksRat71/project-1)
 # project-1
