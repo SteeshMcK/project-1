@@ -5,6 +5,8 @@ RoadtripperZzz is a travel destination app that choses at random from a number o
 RoadtripperZzz is a front-end only application built using HTML5/CSS3 and the Bootstrap component library. Interactivity is supplied by JavaScript. Data is stored in a Firebase database.
 
 # Instructions
+On the home page, the user types in their name and location and clicks the button labeled, "Load up, bud!"
+
 ---
 # From Original Project Repository [Found here.](https://github.com/VolksRat71/project-1)
 # project-1
