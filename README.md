@@ -22,7 +22,7 @@ Click on the "Subscribe" button and fill out the pop-up form to be alerted to fu
 
 Click on the "Guestbook" button to see who else has found an exciting vacation destination on "RoadtripperZzz".
 ![](/project-1/assets/ReadMeImages/guestbook.png)
----
+
 # From Original Project Repository [Found here.](https://github.com/VolksRat71/project-1)
 # project-1
 :motorway: A front-end only application used for the indecisive traveler! Input the required fields and "Load Up, Bud!". The website will return an attraction in the beautiful Pacific Northwest!  👍
